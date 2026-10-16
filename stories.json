@@ -1,0 +1,20 @@
+[
+  {
+    "id": "st_01",
+    "title": "Tấm Cám",
+    "categoryId": "co_tich",
+    "categoryName": "Truyện cổ tích",
+    "author": "Dân gian",
+    "summary": "Câu chuyện quen thuộc về cô Tấm hiền lành...",
+    "content": "Ngày xửa ngày xưa, ở một làng nọ có hai chị em..."
+  },
+  {
+    "id": "st_02",
+    "title": "Rùa và Thỏ",
+    "categoryId": "ngu_ngon",
+    "categoryName": "Truyện ngụ ngôn",
+    "author": "Aesop",
+    "summary": "Chó cậy gần nhà, gà cậy gần vườn...",
+    "content": "Trời mùa thu mát mẻ, một chú Thỏ đang nhởn nhơ..."
+  }
+]
