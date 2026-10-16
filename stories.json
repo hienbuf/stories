@@ -448,5 +448,455 @@
     "author": "Andersen",
     "summary": "Châm biếm tính thói hư tật xấu sự sĩ diện hão, thói nịnh bợ và sự dối trá trong xã hội.",
     "content": "Ngày xửa ngày xưa, có một vị hoàng hoàng đế vô cùng thích mặc đẹp và hoang phí tiền bạc chỉ để mua sắm quần áo mới. Một ngày nọ, có hai kẻ lừa đảo đến kinh đô, tự nhận mình là thợ dệt tài ba có thể dệt ra loại vải tuyệt đẹp: đặc biệt là những ai ngu ngốc hoặc không xứng đáng với chức vụ của mình thì sẽ không thể nhìn thấy bộ quần áo đó.\n\nNhà vua vô cùng thích thú liền ban thưởng rất nhiều vàng bạc cho hai kẻ lừa đảo để chúng tiến hành dệt áo. Thực chất, trên khung cửi chẳng có một sợi chỉ nào. Cả nhà vua lẫn các vị đại thần khi đi kiểm tra đều không thấy gì, nhưng vì sợ bị chê là ngu ngốc hay bất tài nên ai nấy đều trầm trồ khen ngợi bộ trang phục lộng lẫy và vô hình ấy.\n\nĐến ngày hội lớn, hoàng đế cởi bỏ trang phục cũ, mặc bộ \"quần áo mới vô hình\" điễu hành trước hàng vạn thần dân. Ai cũng sợ hãi im lặng khen ngợi cho đến khi một đứa trẻ ngây thơ bỗng cất tiếng reo lớn: \"Nhưng hoàng đế có mặc quần áo gì đâu!\". Lúc bấy giờ, mọi người mới bừng tỉnh trước sự thật dối trá ngớ ngẩn của nhà vua."
+  },
+  {
+    "id": "st_51",
+    "title": "Sự tích chim cuốc",
+    "categoryId": "co_tich_vn",
+    "categoryName": "Truyện cổ tích Việt Nam",
+    "author": "Dân gian",
+    "summary": "Giải thích nguồn gốc của loài chim cuốc và nỗi niềm khắc khoải mong mỏi khôn nguôi.",
+    "content": "Ngày xửa ngày xưa, có hai vợ chồng nông dân nghèo nhưng vô cùng yêu thương nhau. Một năm nọ, người chồng phải đi lính mãi không thấy về. Người vợ ngày đêm mòn mỏi ngóng chờ chồng bên bờ sông. Nàng khóc lóc thiết tha đến kiệt sức rồi hóa thành một chú chim nhỏ. Từ đó, cứ mỗi khi mùa hè đến, chim lại cất tiếng kêu thiết tha 'Cuốc, cuốc...' như đang gọi người chồng trở về."
+  },
+  {
+    "id": "st_52",
+    "title": "Sự tích con dã tràng",
+    "categoryId": "co_tich_vn",
+    "categoryName": "Truyện cổ tích Việt Nam",
+    "author": "Dân gian",
+    "summary": "Câu chuyện về sự dã tràng xe cát biển Đông để tìm lại ngọc quý.",
+    "content": "Ngày xưa có một ngư dân cứu được Long vương và được tặng một viên ngọc quý có thể hiểu tiếng muôn loài. Không may, viên ngọc bị chim đại bàng cướp mất và rơi xuống biển sâu. Con dã tràng thương ơn cứu mạng đã ngày đêm dùng đôi chân nhỏ bé vo cát lấp biển để tìm lại ngọc. Dù công việc mò kim đáy bể không thành, nhưng tấm lòng kiên trì của dã tràng vẫn được người đời cảm phục qua câu tục ngữ 'Dã tràng xe cát biển Đông'."
+  },
+  {
+    "id": "st_53",
+    "title": "Hoàng tử hạnh phúc",
+    "categoryId": "co_tich_tg",
+    "categoryName": "Truyện cổ tích thế giới",
+    "author": "Oscar Wilde",
+    "summary": "Câu chuyện cảm động về lòng trắc ẩn, sự hy sinh cao cả vì người nghèo khổ.",
+    "content": "Ở một thành phố nọ, có bức tượng vị Hoàng tử Hạnh phúc được dát vàng lấp lánh và nạm ngọc quý trên kiếm. Một chú chim én di cư lỡ đoàn tìm đến trú chân dưới chân bức tượng và phát hiện ra bức tượng đang khóc thương cho những mảnh đời nghèo đói trong thành phố. Theo lời thỉnh cầu của hoàng tử, chim én đã lần lượt gỡ từng lá vàng, từng viên ngọc quý trên người tượng mang đến phát cho người nghèo. Khi mùa đông giá rét đến, chú chim én kiệt sức ngã xuống chết bên cạnh bức tượng đã hóa tàn phế, nhưng trái tim bằng chì của hoàng tử và linh hồn chim én đã cùng nhau bay về thiên đàng."
+  },
+  {
+    "id": "st_54",
+    "title": "Cây táo thần",
+    "categoryId": "co_tich_tg",
+    "categoryName": "Truyện cổ tích thế giới",
+    "author": "Dân gian thế giới",
+    "summary": "Bài học về tình yêu thương vô điều kiện và sự biết ơn đối với cha mẹ.",
+    "content": "Ngày xưa có một cây táo lớn vô cùng yêu thương một cậu bé. Khi cậu còn nhỏ, cậu thường trèo lên cây hái táo ăn và ngủ dưới bóng mát. Khi lớn lên, cậu ít ghé thăm hơn cho đến khi cần tiền cưới vợ, cây đã tặng hết táo để cậu bán. Sau đó, khi cậu cần nhà, cây sẵn sàng cho cành nhánh để dựng nhà. Nhiều năm sau, khi đã già nua và mệt mỏi, cậu bé trở về tìm cây. Cây táo nay chỉ còn lại gốc rễ cằn cỗi, nhưng vẫn dang rộng vòng tay chào đón, sẵn sàng làm chiếc ghế nhỏ cho người bạn thơ ấu ngồi nghỉ ngơi."
+  },
+  {
+    "id": "st_55",
+    "title": "Sự tích chim bói cá",
+    "categoryId": "co_tich_vn",
+    "categoryName": "Truyện cổ tích Việt Nam",
+    "author": "Dân gian",
+    "summary": "Giải thích nguồn gốc loài chim bói cá và bài học về tình nghĩa vợ chồng.",
+    "content": "Ngày xưa, có hai vợ chồng người đánh cá sống vô cùng hòa thuận bên dòng sông lớn. Một lần, người chồng ra khơi gặp bão lớn và không bao giờ trở về nữa. Người vợ đau đớn ngày đêm đứng bên bờ sông ngóng chờ chồng đến kiệt sức rồi hóa thành một chú chim mang bộ lông sặc sỡ bay là đà trên mặt nước. Từ đó, người ta gọi loài chim ấy là chim bói cá, luôn chăm chú nhìn xuống mặt nước như tìm kiếm bóng hình người chồng năm xưa."
+  },
+  {
+    "id": "st_56",
+    "title": "Công chúa tóc mây",
+    "categoryId": "co_tich_tg",
+    "categoryName": "Truyện cổ tích thế giới",
+    "author": "Anh em Grimm",
+    "summary": "Câu chuyện về nàng công chúa bị giam trên ngọn tháp cao với mái tóc dài kỳ diệu.",
+    "content": "Ngày xửa ngày xưa, có một cặp vợ chồng sống cạnh khu vườn của mụ phù thủy độc ác. Người vợ thèm ăn rau xà lách trong vườn nên chồng phải lén trèo vào hái và bị mụ phù thủy bắt gặp, bắt đổi đứa con đầu lòng khi sinh ra. Khi cô bé Rapunzel lớn lên xinh đẹp, mụ phù thủy nhốt cô vào một ngọn tháp cao chót vót không cửa ra vào, chỉ có thể lên xuống bằng mái tóc dài óng ả của Rapunzel khi mụ gọi: 'Rapunzel, hãy thả tóc xuống cho ta!'. Một ngày nọ, hoàng tử đi ngang qua nghe tiếng hát tuyệt trần của Rapunzel, bèn học theo cách gọi để lên thăm nàng. Hai người đem lòng yêu nhau và lên kế hoạch trốn chạy. Biết chuyện, mụ phù thủy nổi giận cắt phăng mái tóc Rapunzel và đày cô vào rừng sâu, đồng thời dùng tóc giả lừa hoàng tử ngã xuống bụi gai mù mắt. Trải qua nhiều năm lưu lạc, hoàng tử nghe được tiếng hát quen thuộc của Rapunzel, nước mắt nàng rơi xuống đôi mắt chàng giúp chàng sáng lại. Họ trở về vương quốc và sống hạnh phúc bên nhau."
+  },
+  {
+    "id": "st_57",
+    "title": "Hansel và Gretel",
+    "categoryId": "co_tich_tg",
+    "categoryName": "Truyện cổ tích thế giới",
+    "author": "Anh em Grimm",
+    "summary": "Sự thông minh và dũng cảm giúp hai anh em vượt qua mụ phù thủy ăn thịt người.",
+    "content": "Ngày xưa có hai anh em Hansel và Gretel sống cùng cha và người mẹ kế độc ác. Vì gia cảnh nghèo khó, nạn đói hoành hành, mẹ kế nhẫn tâm ép cha đưa hai đứa trẻ vào rừng sâu bỏ mặc. Lần đầu, Hansel kịp nhặt những viên sỏi trắng lấp lánh rải dọc đường để tìm lối về nhà dưới ánh trăng. Lần thứ hai bị đưa đi, Hansel dùng vụn bánh mì để rải, nhưng đã bị chim ăn mất khiến hai anh em lạc vào khu rừng rậm. Đang đói lả, họ phát hiện ra một ngôi nhà kỳ lạ làm bằng bánh quy, bánh ngọt và đường kính. Đó là nhà của một mụ phù thủy già độc ác chuyên dụ dỗ trẻ em để ăn thịt. Mụ bắt giam Hansel vào lồng để vỗ béo còn Gretel phải làm việc nhà. Bằng sự nhanh trí, khi mụ phù thủy bảo Gretel nhóm lò kiểm tra độ nóng, cô bé vờ không biết cách làm. Mụ phù thủy tức giận tự mình thò đầu vào lò, Gretel liền nhanh tay đẩy mụ vào trong và đóng chặt cửa lại. Hai anh em giải cứu lẫn nhau, lấy đầy túi những viên ngọc quý trong nhà mụ phù thủy rồi tìm đường quay về đoàn tụ với người cha."
+  },
+  {
+    "id": "st_58",
+    "title": "Sự tích hoa hướng dương",
+    "categoryId": "co_tich_vn",
+    "categoryName": "Truyện cổ tích Việt Nam",
+    "author": "Dân gian",
+    "summary": "Câu chuyện cảm động về lòng thủy chung, hướng về ánh sáng và tình yêu mãnh liệt.",
+    "content": "Ngày xưa, trên thiên đình có một nàng tiên nước tên là Clytie vô cùng xinh đẹp. Nàng đem lòng yêu thần Mặt Trời Helios sâu sắc, ngày ngày ngắm nhìn chàng từ lúc bình minh đến khi hoàng hôn buông xuống. Thế nhưng, thần Mặt Trời mải miết với cỗ xe lửa trên bầu trời mà không màng chú ý đến nàng. Dù vậy, trái tim Clytie vẫn không thay đổi, nàng đứng bất động trên mặt đất suốt nhiều ngày đêm, chân bám chặt vào đất mẹ. Cảm động trước tình cảm thủy chung son sắt ấy, các vị thần đã biến nàng thành một đóa hoa luôn quay đầu hướng về phía mặt trời mỗi ngày, được gọi là hoa hướng dương."
+  },
+  {
+    "id": "st_59",
+    "title": "Chú lính chì dũng cảm",
+    "categoryId": "co_tich_tg",
+    "categoryName": "Truyện cổ tích thế giới",
+    "author": "Andersen",
+    "summary": "Hành trình kiên cường, dũng cảm của chú lính chì một chân qua muôn vàn trắc trở.",
+    "content": "Trong một hộp đồ chơi có hai mươi lăm chú lính chì được đúc từ một chiếc thìa cũ, nhưng chú lính cuối cùng chỉ có một chân vì hết chì. Dù vậy, chú vẫn đứng thẳng vững vàng trên chiếc đế của mình. Chú đem lòng yêu nàng vũ công xinh đẹp bằng giấy đang đứng một chân trên hộp múa. Một đêm nọ, vì ghen tị, một con quỷ trong hộp lò xo đẩy chú lính chì rơi từ cửa sổ xuống đường phố. Chú lính chì trải qua cuộc phiêu lưu nguy hiểm: nằm trong chiếc thuyền giấy trôi dạt xuống cống ngầm tối tăm, bị một con cá lớn nuốt chửng vào bụng. May mắn thay, con cá bị bắt đem ra chợ bán và được mua về chính ngôi nhà cũ. Chú lính chì vui mừng gặp lại nàng vũ công giấy. Thế nhưng, cậu bé chủ nhà bất cẩn ném chú lính chì vào lò sưởi. Ngọn lửa bùng cháy, chú vẫn dũng cảm đứng thẳng nhìn người mình yêu. Lúc đó, một cơn gió thổi bay nàng vũ công giấy bay vào ngọn lửa nhập chung với chú lính chì. Ngày hôm sau, người ta chỉ tìm thấy một trái tim nhỏ bằng chì."
+  },
+  {
+    "id": "st_60",
+    "title": "Sự tích chim sâu",
+    "categoryId": "co_tich_vn",
+    "categoryName": "Truyện cổ tích Việt Nam",
+    "author": "Dân gian",
+    "summary": "Giải thích nguồn gốc của loài chim sâu nhỏ bé giúp ích cho mùa màng.",
+    "content": "Ngày xửa ngày xưa, có một người nông dân chăm chỉ yêu cây cối trong vườn như con đẻ. Khi những hàng cây bị sâu bọ đục khoét, lá vàng héo úa, ông vô cùng đau xót và ngày đêm cầu khấn thần linh cứu giúp những giọt mồ hôi nhọc nhằn của mình. Cảm động trước tấm lòng chân thành ấy, trời đất đã hóa thân người nông dân thành một chú chim nhỏ nhắn, nhanh nhẹn, có bộ lông xanh biếc. Chú chim chuyên cần bay khắp các cành cây để bắt sâu hại cho mùa màng. Từ đó, người dân gọi loài chim ấy là chim sâu và luôn trân trọng bảo vệ chúng."
+  },
+  {
+    "id": "st_61",
+    "title": "Sự tích hoa hồng",
+    "categoryId": "co_tich_vn",
+    "categoryName": "Truyện cổ tích Việt Nam",
+    "author": "Dân gian",
+    "summary": "Giải thích nguồn gốc của loài hoa hồng và biểu tượng của tình yêu chân thành có gai bảo vệ.",
+    "content": "Ngày xửa ngày xưa, ở một khu vườn thượng uyển nọ có một nàng tiên hoa hồng vô cùng xinh đẹp với chiếc áo choàng màu đỏ thắm. Nàng đem lòng yêu thương một chàng hoàng tử nhân hậu trần gian. Mỗi đêm, nàng đều giáng trần để trò chuyện và sẻ chia tâm sự cùng chàng. Một mụ phù thủy ghen ghét tình yêu ấy đã tìm cách hãm hại, yểm bùa khiến hoàng tử lâm bệnh nặng. Nàng tiên hoa hồng vì cứu người mình yêu đã hy sinh phép thuật, chấp nhận hóa thân thành một khóm hoa mọc bên hiên nhà chàng. Để bảo vệ đóa hoa khỏi những kẻ gian ác muốn ngắt phá, các vị thần đã ban cho thân cây những chiếc gai nhọn sắc bén. Từ đó, hoa hồng đỏ rực trở thành biểu tượng của tình yêu thủy chung và lòng dũng cảm bảo vệ hạnh phúc."
+  },
+  {
+    "id": "st_62",
+    "title": "Nàng công chúa và hạt đậu",
+    "categoryId": "co_tich_tg",
+    "categoryName": "Truyện cổ tích thế giới",
+    "author": "Andersen",
+    "summary": "Câu chuyện vui về sự nhạy cảm tinh tế của một nàng công chúa đích thực.",
+    "content": "Ngày xưa có một hoàng tử muốn tìm cưới một nàng công chúa chính hiệu làm vợ, nhưng đi khắp nơi vẫn không tìm được người ưng ý vì ai cũng có điểm chưa hoàn hảo. Một tối nọ, giông bão nổi lên dữ dội, có tiếng gõ cửa hoàng cung. Một cô gái ướt sũng nhận mình là công chúa. Hoàng hậu muốn thử thách cô gái bèn sai người dọn phòng ngủ: lót dưới đáy giường hai mươi chiếc đệm mút dày và thêm hai mươi tấm đệm lông vũ chồng lên nhau, bên dưới cùng giấu một hạt đậu nhỏ xíu. Sáng hôm sau, khi được hỏi thăm về giấc ngủ, cô gái mệt mỏi đáp rằng cô chẳng thể chợp mắt nổi vì có vật gì đó cứng cộm làm đau ê ẩm cả lưng suốt cả đêm. Nhờ sự nhạy cảm tinh tế đặc biệt ấy, nhà vua và hoàng hậu nhận ra đây chính là một nàng công chúa đích thực và tổ chức lễ cưới linh đình cho hoàng tử."
+  },
+  {
+    "id": "st_63",
+    "title": "Chú mèo đi hia",
+    "categoryId": "co_tich_tg",
+    "categoryName": "Truyện cổ tích thế giới",
+    "author": "Charles Perrault",
+    "summary": "Sự thông minh, mưu trí của chú mèo giúp cậu chủ nghèo đổi đời.",
+    "content": "Một người thợ xay qua đời để lại tài sản duy nhất cho ba người con trai là một cỗ máy xay, một con lừa và một chú mèo. Người con út nhận được con mèo và tỏ ra buồn rầu vì nghĩ mình chẳng thể làm gì với nó. Nào ngờ, chú mèo cất tiếng nói đòi cậu chủ may cho một đôi hia da và một cái bịt túi. Với sự thông minh và mưu trí tuyệt vời, chú mèo liên tục săn bắt thú rừng dâng lên nhà vua, tự xưng đó là quà của ngài hầu tước xứ Carabas – chính là cậu chủ nghèo của mình. Không những thế, chú mèo còn lừa một tên khổng lồ độc ác biến hình thành chuột rồi nuốt chửng hắn, chiếm đoạt toàn bộ lâu đài nguy nga làm của cải cho cậu chủ. Cuối cùng, cậu chủ nghèo được vua gả công chúa cho và sống giàu có, hạnh phúc."
+  },
+  {
+    "id": "st_64",
+    "title": "Sự tích hồ Hoàn Kiếm",
+    "categoryId": "co_tich_vn",
+    "categoryName": "Truyện cổ tích Việt Nam",
+    "author": "Dân gian",
+    "summary": "Truyền thuyết lịch sử về thanh gươm thần trả lại cho rùa vàng sau khi dẹp giặc ngoại xâm.",
+    "content": "Vào đầu thế kỷ XV, giặc Minh đô hộ nước ta, nhân dân lầm than khốn khổ. Thuận Thiên – vị anh hùng Lê Lợi dấy binh khởi nghĩa tại Lam Sơn nhưng ban đầu gặp nhiều khó khăn. Long quân bèn cho nghĩa quân mượn thanh gươm thần. Nhờ có thanh gươm quý báu ấy trong tay, nghĩa quân Lam Sơn đánh đâu thắng đấy, quét sạch giặc ngoại xâm ra khỏi bờ cõi, giành lại nền độc lập tự chủ cho đất nước. Vài năm sau, khi nhà vua cùng tùy tùng đi thuyền dạo chơi trên hồ Lục Thủy, bỗng một con rùa vàng lớn ngoi lên mặt nước, cất tiếng đòi vua trả lại gươm thần. Nhà vua hiểu ý, bèn rút gươm trao cho rùa vàng. Rùa ngậm gươm lặn sâu xuống đáy nước trong xanh. Từ đó, hồ Lục Thủy được đổi tên thành hồ Hoàn Kiếm hay hồ Gươm."
+  },
+  {
+    "id": "st_65",
+    "title": "Bà chúa tuyết",
+    "categoryId": "co_tich_tg",
+    "categoryName": "Truyện cổ tích thế giới",
+    "author": "Andersen",
+    "summary": "Hành trình gian khổ nhưng đầy tình yêu thương của cô bé Gerda đi tìm người bạn thân Kay.",
+    "content": "Kay và Gerda là hai đứa trẻ hàng xóm chơi thân với nhau như hình với bóng. Một ngày nọ, những mảnh thủy tinh ma thuật từ chiếc gương của ác quỷ bay vào mắt và tim của Kay, khiến cậu trở nên lạnh lùng, cay nghiệt. Ngay sau đó, Bà Chúa Tuyết xuất hiện trên cỗ xe băng giá, mang Kay đi mất về cung điện băng giá lạnh lẽo ở phương Bắc. Không nản lòng, cô bé Gerda dũng cảm một mình lên đường tìm kiếm bạn thân. Trải qua muôn vàn khó khăn, vượt qua khu vườn phù thủy, cung điện mùa đông và những kẻ cướp rừng, Gerda cuối cùng cũng đặt chân đến lâu đài băng giá của Bà Chúa Tuyết. Nước mắt ấm áp của Gerda rơi xuống ngực Kay, làm tan chảy mảnh thủy tinh ma thuật trong tim cậu. Hai đứa trẻ ôm nhau mừng tủi, cùng nhau trở về nhà trong khúc ca đoàn tụ ấm áp."
+  },
+  {
+    "id": "st_66",
+    "title": "Vịt con xấu xí",
+    "categoryId": "co_tich_tg",
+    "categoryName": "Truyện cổ tích thế giới",
+    "author": "Andersen",
+    "summary": "Bài học về lòng tự tin và vẻ đẹp thực sự xuất phát từ bên trong.",
+    "content": "Vào một ngày hè đẹp trời, bên bờ ao làng, một cô vịt mẹ ấp nở những quả trứng. Khi những chú vịt con lần lượt chui ra, có một chú vịt cuối cùng to lớn hơn, lông màu xám xịt, trông vô cùng cục mịch và xấu xí. Vì vẻ ngoài khác lạ ấy, chú vịt tội nghiệp liên tục bị anh chị em trong đàn mổ xéo, hắt hủi và bị đám gia cầm trong chuồng chê bai, ruồng bỏ. Buồn tủi và cô đơn, chú quyết định rời khỏi tổ ấm, lang thang phiêu dạt qua bao giông bão mùa đông lạnh giá, đối mặt với đói khát và hiểm nguy. Khi mùa xuân ấm áp trở lại, chú vô tình bơi đến một hồ nước trong xanh và nhìn thấy hình ảnh phản chiếu của mình dưới mặt nước. Kì lạ thay, chú vịt xấu xí ngày nào giờ đã lột xác thành một chú thiên nga kiều diễm, trắng muốt và oai phong. Những chú thiên nga khác bơi tới chào đón, chú hạnh phúc tung cánh bay lên bầu trời cao rộng."
+  },
+  {
+    "id": "st_67",
+    "title": "Sự tích chim én",
+    "categoryId": "co_tich_vn",
+    "categoryName": "Truyện cổ tích Việt Nam",
+    "author": "Dân gian",
+    "summary": "Giải thích nguồn gốc chim én mang mùa xuân ấm áp đến cho muôn loài.",
+    "content": "Ngày xửa ngày xưa, ở một ngôi làng nọ có một chàng trai hiền lành, chăm chỉ làm lụng nhưng sống cô độc. Một lần cứu được một chú chim én nhỏ bị thương nặng rơi bên hiên nhà, chàng tận tâm chăm sóc, băng bó vết thương cho đến khi chim khỏe mạnh và bay về trời. Năm sau, khi mùa xuân đến, chú én xưa quay trở lại mang theo một hạt giống lạ thả xuống khu vườn trước nhà. Chỉ ít lâu sau, hạt giống nảy mầm thành một cây quý trĩu quả vàng ngọc, giúp chàng trai vượt qua cảnh nghèo khó. Từ đó, cứ mỗi độ xuân về, từng đàn chim én lại ríu rít bay về báo hiệu mùa xuân ấm áp cho nhân gian."
+  },
+  {
+    "id": "st_68",
+    "title": "Cậu bé tí hon",
+    "categoryId": "co_tich_tg",
+    "categoryName": "Truyện cổ tích thế giới",
+    "author": "Anh em Grimm",
+    "summary": "Hành trình phiêu lưu kỳ thú của cậu bé nhỏ bằng ngón tay cái.",
+    "content": "Ngày xưa có hai vợ chồng nghèo khao khát có một đứa con, dẫu bé nhỏ bằng ngón tay cái cũng mãn nguyện. Quả nhiên họ sinh hạ được một cậu con trai vô cùng khôn ngoan nhưng chỉ cao bằng ngón tay cái nên gọi là Cậu bé tí hon. Dù nhỏ bé, cậu rất thông minh và thương yêu cha mẹ. Một hôm, cậu trốn vào túi áo của cha để theo ra đồng làm việc, rồi trải qua nhiều cuộc phiêu lưu bất ngờ: bị nuốt vào bụng bò, chui vào tai sói và dùng trí thông minh giúp gia đình trộm được kho báu của bọn cướp. Cuối cùng, cậu bé tí hon trở về bên cha mẹ, sống sung túc và hạnh phúc."
+  },
+  {
+    "id": "st_69",
+    "title": "Sự tích hoa dâm bụt",
+    "categoryId": "co_tich_vn",
+    "categoryName": "Truyện cổ tích Việt Nam",
+    "author": "Dân gian",
+    "summary": "Câu chuyện dân gian mang màu sắc huyền thoại về loài hoa dâm bụt đỏ rực rỡ.",
+    "content": "Ngày xưa, có một cô sơn nữ xinh đẹp sống ở vùng núi cao, đem lòng yêu tha thiết một chàng trai dũng cảm trong làng. Thế nhưng chiến tranh xảy ra, chàng trai phải ra trận và không bao giờ trở về. Người con gái ngày đêm mòn mỏi đứng ngóng chờ bên sườn đồi, nước mắt rơi thấm đẫm đất trời rồi hóa thành một khóm hoa có sắc đỏ thắm như ngọn lửa lòng thủy chung. Người dân gọi đó là hoa dâm bụt – loài hoa tượng trưng cho tình yêu bền chặt và sự hy sinh thầm lặng."
+  },
+  {
+    "id": "st_70",
+    "title": "Quạ và bình nước",
+    "categoryId": "co_tich_tg",
+    "categoryName": "Truyện cổ tích thế giới",
+    "author": "Aesop",
+    "summary": "Bài học về sự kiên trì và trí thông minh giải quyết vấn đề khó khăn.",
+    "content": "Trong một mùa hè hạn hán khốc liệt, các khe suối đều cạn khô nước, một chú quạ khát nước đến kiệt sức bay đi khắp nơi tìm nguồn nước. Cuối cùng, chú phát hiện ra một chiếc bình cao cổ chứa một ít nước ở tận đáy, nhưng cổ bình quá hẹp và sâu khiến chú không tài nào với tới được. Quạ tìm cách lật đổ chiếc bình nhưng bình quá nặng, không thể lay chuyển. Quan sát xung quanh, chú nảy ra một ý tưởng thông minh: dùng mỏ nhặt từng viên sỏi nhỏ thả vào trong bình. Lực chìm của những viên sỏi làm mực nước trong bình dâng dần lên miệng. Cuối cùng, quạ đã có thể uống nước thỏa thích và cứu mạng mình qua cơn khát."
+  },
+  {
+    "id": "st_71",
+    "title": "Sự tích quả dừa",
+    "categoryId": "co_tich_vn",
+    "categoryName": "Truyện cổ tích Việt Nam",
+    "author": "Dân gian",
+    "summary": "Giải thích nguồn gốc của quả dừa và tình nghĩa cha con sâu nặng.",
+    "content": "Ngày xửa ngày xưa, có hai cha con người thợ mộc nghèo sống bên bờ biển. Người cha hiền lành nhưng sức khỏe yếu, người con trai chăm chỉ phụ giúp cha mọi việc. Một năm nọ, giặc ngoại xâm tràn đến, người cha ngã bệnh rồi qua đời. Trước khi mất, ông dặn con phải luôn giữ vững lòng kiên cường. Người con chôn cất cha cẩn thận, hàng ngày ôm mộ cha khóc thương. Một hôm, có một vị thần xuất hiện biến đầu người con thành một loại quả tròn có nước ngọt thanh mát bên trong và lớp vỏ xơ cứng bên ngoài để bảo vệ. Từ đó, người dân gọi là quả dừa, tượng trưng cho tình nghĩa cha con."
+  },
+  {
+    "id": "st_72",
+    "title": "Bác nông dân và con lừa",
+    "categoryId": "co_tich_tg",
+    "categoryName": "Truyện cổ tích thế giới",
+    "author": "Aesop",
+    "summary": "Bài học về việc không thể làm hài lòng tất cả mọi người cùng một lúc.",
+    "content": "Có một bác nông dân và cậu con trai dắt theo con lừa đi ra chợ bán. Trên đường đi, họ gặp những người đi đường bàn tán. Người thì bảo hai cha con thật ngốc khi có lừa mà không cưỡi, bác nông dân liền bảo con trai cưỡi lừa. Người tiếp theo lại mắng cậu con trai bất hiếu để cha già đi bộ, bác nông dân liền đổi chỗ cho con xuống đi bộ còn mình cưỡi lừa. Lại có người chê bai người cha ích kỷ để con trai nhỏ phải mỏi chân. Cuối cùng, hai cha con quyết định trói chân lừa treo lên đòn gánh để khiêng đi. Đến đoạn qua cầu, con lừa hoảng sợ vùng vẫy khiến đòn gánh gãy, lừa ngã xuống sông. Bác nông dân nhận ra bài học đắt giá rằng nếu cứ cố làm hài lòng tất cả mọi người thì sẽ chẳng làm được việc gì."
+  },
+  {
+    "id": "st_73",
+    "title": "Sự tích hoa sen",
+    "categoryId": "co_tich_vn",
+    "categoryName": "Truyện cổ tích Việt Nam",
+    "author": "Dân gian",
+    "summary": "Ca ngợi phẩm chất thanh cao, trong sạch 'gần bùn mà chẳng hôi tanh mùi bùn' của hoa sen.",
+    "content": "Ngày xửa ngày xưa, có một cô thôn nữ sinh ra và lớn lên ở vùng đầm lầy hôi tanh, nghèo khó nhưng sở hữu tấm lòng trong trắng, nết na và dung nhan tuyệt trần. Dù sống giữa cảnh bùn lầy nhơ nhớp, nàng vẫn giữ trọn vẹn sự thanh cao, không bao giờ nhiễm thói hư tật xấu. Khi nàng qua đời, từ nơi nàng nằm mọc lên một loài hoa kỳ lạ vươn thẳng lên mặt nước, nở những cánh hoa hồng phao phao thơm ngát, tỏa hương giữa bùn đen mà không hề vướng chút nhơ bẩn. Nhân dân gọi đó là hoa sen, biểu tượng cho sự thanh cao, tinh khiết của tâm hồn con người Việt Nam."
+  },
+  {
+    "id": "st_74",
+    "title": "Cây kim khâu",
+    "categoryId": "co_tich_tg",
+    "categoryName": "Truyện cổ tích thế giới",
+    "author": "Andersen",
+    "summary": "Châm biếm thói kiêu căng, tự phụ của những kẻ tưởng mình là quan trọng.",
+    "content": "Có một cây kim khâu tự cho mình là vô cùng tinh tế và quan trọng vì nó nghĩ mình được làm bằng thép cao cấp và thuộc về tay của một người thợ may khéo léo. Một hôm, cây kim bị gãy mất phần đầu nhọn, nhưng nó vẫn kiêu hãnh tự nhận mình vẫn là cây kim hoàn hảo. Nó rơi xuống rãnh nước bẩn ngoài đường và bắt đầu trò chuyện với các vật vô tri khác như vỏ trứng, mảnh sành vỡ. Dù bị dòng nước cuốn đi và chìm trong bùn lầy rách nát, cây kim khâu vẫn giữ nguyên vẻ kiêu ngạo hão huyền của mình cho đến khi bị một chiếc giày cũ đè bẹp."
+  },
+  {
+    "id": "st_75",
+    "title": "Sự tích chim bồ câu",
+    "categoryId": "co_tich_vn",
+    "categoryName": "Truyện cổ tích Việt Nam",
+    "author": "Dân gian",
+    "summary": "Giải thích nguồn gốc loài chim bồ câu và ước vọng hòa bình của nhân loại.",
+    "content": "Ngày xưa, chiến tranh giữa các bộ tộc kéo dài đằng đẵng khiến làng mạc điêu tàn, người dân lầm than đói khổ. Có hai vợ chồng trẻ yêu chuộng hòa bình đã ngày đêm đi khắp nơi thuyết phục các tù trưởng giảng hòa, khép lại hận thù. Cảm hóa được lòng người, nhưng kẻ gian ác vẫn tìm cách hãm hại họ. Trước khi ngã xuống, hai vợ chồng nguyện hóa thành những cánh chim hiền lành bay lượn trên bầu trời để mang thông điệp hòa bình đến khắp muôn nơi. Từ đó, loài chim bồ câu trắng ra đời, trở thành biểu tượng thiêng liêng của sự hòa bình và gắn kết tình đoàn kết."
+  },
+  {
+    "id": "st_76",
+    "title": "Con sư tử và con chuột",
+    "categoryId": "co_tich_tg",
+    "categoryName": "Truyện cổ tích thế giới",
+    "author": "Aesop",
+    "summary": "Bài học rằng không có ai quá nhỏ bé mà không thể giúp ích cho người khác.",
+    "content": "Một buổi trưa hè nọ, chú sư tử chúa tể muôn loài đang nằm ngủ say trong rừng thì một chú chuột nhắt vô tình chạy ngang qua nhảy nhót trên người làm sư tử thức giấc. Sư tử tức giận vung móng vuốt định tóm lấy chuột con để ăn thịt. Chú chuột sợ hãi van xin tha mạng và hứa nếu sau này có cơ hội sẽ đền đáp ơn cứu mạng. Sư tử phì cười vì sự ngớ ngẩn của chú chuột bé nhỏ nhưng vẫn rộng lượng thả cho đi. Vài tuần sau, sư tử không may vướng phải chiếc lưới bẫy thợ săn giăng sẵn, bị trói chặt vào gốc cây và gầm thét vang động cả khu rừng. Chú chuột nghe tiếng gầm liền chạy tới, dùng đôi răng sắc nhọn cắn đứt từng mắt lưới thợ săn, giải cứu sư tử thoát nạn. Từ đó, hai con vật trở thành đôi bạn thân thiết."
+  },
+  {
+    "id": "st_77",
+    "title": "Sự tích dưa lê",
+    "categoryId": "co_tich_vn",
+    "categoryName": "Truyện cổ tích Việt Nam",
+    "author": "Dân gian",
+    "summary": "Giải thích nguồn gốc của quả dưa lê và bài học về sự gắn kết bạn bè.",
+    "content": "Ngày xưa có hai người bạn thân thiết như anh em ruột thịt, luôn san sẻ cho nhau từng củ khoai bát cơm trong lúc hoạn nạn. Khi một người qua đời vì bệnh nặng, người bạn còn lại đau buồn khóc lóc suốt ngày đêm bên nấm mồ. Nước mắt và tình cảm chân thành của chàng đã cảm động đất trời, khiến nơi nấm mồ mọc lên một loại dây leo xanh mướt, kết ra những quả tròn vỏ trắng ngần, thịt ngọt thơm mát lịm. Người dân đặt tên là quả dưa lê, nhắc nhở thế hệ sau về tình bạn thủy chung, ngọt ngào."
+  },
+  {
+    "id": "st_78",
+    "title": "Kiến và châu chấu",
+    "categoryId": "co_tich_tg",
+    "categoryName": "Truyện cổ tích thế giới",
+    "author": "La Fontaine",
+    "summary": "Bài học quý giá về sự chăm chỉ làm việc và lo xa cho tương lai.",
+    "content": "Vào một mùa hè rực rỡ nắng vàng, đàn kiến chăm chỉ ngày đêm làm việc không ngơi nghỉ, cặm cụi tha từng hạt lúa, mẩu bánh mì về tổ để dự trữ cho mùa đông giá rét. Trong khi đó, chú châu chấu mải mê ca hát, nhảy múa và vui chơi suốt cả ngày, chế giễu sự ngốc nghếch của đàn kiến. Khi mùa đông lạnh giá, tuyết phủ trắng xóa kéo đến, châu chấu đói rét co ro, không tìm được một mẩu thức ăn nào đành đến gõ cửa xin kiến cứu giúp. Đàn kiến nhân hậu đã chia sẻ thức ăn và sưởi ấm cho châu chấu, đồng thời dạy cho nó bài học sâu sắc về giá trị của sự siêng năng và chuẩn bị cho tương lai."
+  },
+  {
+    "id": "st_79",
+    "title": "Sự tích hoa mẫu đơn",
+    "categoryId": "co_tich_vn",
+    "categoryName": "Truyện cổ tích Việt Nam",
+    "author": "Dân gian",
+    "summary": "Câu chuyện cảm động về tình mẫu tử thiêng liêng và sự hy sinh của người mẹ.",
+    "content": "Ngày xửa ngày xưa, có một người mẹ nghèo đơn thân nuôi người con trai duy nhất khôn lớn. Khi giặc ngoại xâm tràn đến, người con trai tòng quân ra trận bảo vệ tổ quốc. Người mẹ ngày đêm đứng ngóng chờ con bên triền đồi cho đến khi ngã bệnh và qua đời. Trước khi mất, bà vẫn hướng về phương xa nơi chiến tuyến. Nơi người mẹ nằm xuống, một loài hoa kỳ lạ mọc lên, nở những bông hoa to tròn, rực rỡ sắc đỏ kiêu sa và tỏa hương thơm ngát. Nhân dân gọi đó là hoa mẫu đơn – tượng trưng cho tình mẫu tử bao la, lòng hiếu thảo và sự chờ đợi mòn mỏi."
+  },
+  {
+    "id": "st_80",
+    "title": "Cáo và chùm nho",
+    "categoryId": "co_tich_tg",
+    "categoryName": "Truyện cổ tích thế giới",
+    "author": "Aesop",
+    "summary": "Châm biếm thói đời khi không đạt được mục đích liền tìm cách chê bai, ngụy biện.",
+    "content": "Vào một buổi trưa hè oi bức, chú cáo đói bụng lang thang qua một khu vườn và bắt gặp một giàn nho chín mọng, những chùm quả to tròn, mọng nước treo lủng lẳng trên cao vô cùng hấp dẫn. Cáo ta thèm thuồng rỏ dãi, liền lùi lại lấy đà rồi tung người bật cao để với lấy chùm nho. Thế nhưng giàn nho quá cao, cáo nhảy với hụt hết lần này đến lần khác mà vẫn không chạm tới được quả nào. Sau nhiều lần cố gắng kiệt sức mà vẫn thất bại, cáo ta bèn hậm hực bỏ đi, vừa đi vừa tự lẩm bẩm an ủi để vớt vát lòng tự trọng: 'Nho ấy chắc còn xanh lắm, ăn vào chắc ê cả răng, chẳng ngon lành gì đâu!'"
+  },
+  {
+    "id": "st_81",
+    "title": "Sự tích quả dứa",
+    "categoryId": "co_tich_vn",
+    "categoryName": "Truyện cổ tích Việt Nam",
+    "author": "Dân gian",
+    "summary": "Giải thích nguồn gốc của quả dứa (quả thơm) và bài học về lòng hiếu thảo.",
+    "content": "Ngày xưa, có một cậu bé sống cùng người mẹ già nghèo khó. Một hôm mẹ ốm nặng, không có tiền mua thuốc, cậu bé đau khổ đi khắp nơi tìm thầy lang. Cảm động trước tấm lòng hiếu thảo của cậu, một vị tiên xuất hiện tặng một hạt giống lạ mang về trồng. Hạt giống nhanh chóng mọc thành cây, sinh ra những quả có hình thù kỳ lạ, vỏ có nhiều mắt sắc và tỏa hương thơm ngát. Khi ép nước cho mẹ uống, người mẹ lập tức khỏi bệnh. Từ đó, loại quả này được gọi là quả dứa hay quả thơm, tượng trưng cho lòng hiếu thảo."
+  },
+  {
+    "id": "st_82",
+    "title": "Người đẹp và quái vật",
+    "categoryId": "co_tich_tg",
+    "categoryName": "Truyện cổ tích thế giới",
+    "author": "Jeanne-Marie Leprince de Beaumont",
+    "summary": "Bài học rằng vẻ đẹp thực sự xuất phát từ tâm hồn bên trong chứ không phải vẻ bề ngoài.",
+    "content": "Ngày xưa có một thương gia giàu có nhưng không may mất hết tài sản, phải chuyển về vùng quê nghèo sinh sống cùng các con. Người con út tên là Belle xinh đẹp, hiền lành và rất mực yêu thương cha. Một lần người cha đi xa trở về, vì tránh bão nên lỡ bước vào một lâu đài hoang vắng, hái một bông hồng tặng Belle liền bị một con Quái Vật hung dữ bắt giữ. Để cứu cha, Belle dũng cảm đến lâu đài ở thay cho cha. Sống ở đây, Belle dần nhận ra đằng sau vẻ ngoài đáng sợ và gầm thét là một trái tim nhân hậu, ấm áp của Quái Vật. Khi Belle khóc vì hay tin cha ngã bệnh và xin về thăm nhà, cô suýt không kịp quay lại vì các chị ghen ghét giữ lại. Khi trở về lâu đài, cô thấy Quái Vật đang hấp hối vì đau buồn. Belle ôm lấy Quái Vật khóc nức nở và nói lời yêu thương. Ngay lập tức, phép thuật bùa chú bị phá vỡ, Quái Vật biến thành một vị hoàng tử khôi ngô tuấn tú, và họ sống hạnh phúc bên nhau."
+  },
+  {
+    "id": "st_83",
+    "title": "Sự tích hoa mai vàng",
+    "categoryId": "co_tich_vn",
+    "categoryName": "Truyện cổ tích Việt Nam",
+    "author": "Dân gian",
+    "summary": "Giải thích nguồn gốc của hoa mai vàng rực rỡ nở rộ trong dịp Tết cổ truyền phương Nam.",
+    "content": "Ngày xưa, ở một ngôi làng nọ có một cô bé tên là Mai vô cùng dũng cảm và tháo vát. Trong làng có một con yêu tinh thường quấy phá, bắt hại dân làng. Mai đã cùng cha luyện tập võ nghệ và cùng người dân dũng cảm đứng lên tiêu diệt trừ hại cho làng xóm. Trước khi lâm trận, người mẹ thắt cho Mai chiếc áo màu vàng rực để dễ nhận diện. Trong trận chiến quyết liệt ấy, Mai đã anh dũng hy sinh. Cảm kích trước tấm lòng của nàng, các vị thần đã hóa thân Mai thành một loài cây có những cánh hoa vàng rực rỡ tỏa sáng mỗi khi mùa xuân về. Từ đó, hoa mai vàng trở thành biểu tượng may mắn không thể thiếu trong ngày Tết cổ truyền."
+  },
+  {
+    "id": "st_84",
+    "title": "Năm hạt đậu nhỏ",
+    "categoryId": "co_tich_tg",
+    "categoryName": "Truyện cổ tích thế giới",
+    "author": "Andersen",
+    "summary": "Hành trình ý nghĩa của năm hạt đậu trong một vỏ pod khi bước ra khám phá thế giới rộng lớn.",
+    "content": "Trong một cái vỏ đậu xanh tươi có năm hạt đậu cùng chung sống, nghĩ rằng cả thế giới chỉ có màu xanh và nhỏ bé ấy. Khi vỏ đậu khô dần và bật tung ra, năm hạt đậu bay ra ngoài theo những hướng khác nhau của gió. Hạt đậu thứ nhất bay lên trời rồi rơi vào miệng một con bồ câu và bị ăn mất. Hạt thứ hai rơi xuống vũng bùn dơ bẩn và tự mãn vì nghĩ mình ở nơi ẩm ướt nhất. Hạt thứ ba và thứ tư rơi vào một kẽ nứt bẩn thỉu và mọc lên những cây còi cọc. Riêng hạt đậu thứ năm bay qua cửa sổ một căn gác mái nghèo, rơi vào chậu đất nhỏ cạnh chiếc giường của một cô bé nghèo đang lâm bệnh nặng. Hạt đậu nảy mầm tươi tốt, ngày ngày vươn lên xanh mướt dưới ánh nắng ban mai. Nhìn cây đậu lớn lên từng ngày, cô bé cảm thấy có thêm sức sống, niềm hy vọng và đã bình phục trở lại."
+  },
+  {
+    "id": "st_85",
+    "title": "Sự tích hoa đào",
+    "categoryId": "co_tich_vn",
+    "categoryName": "Truyện cổ tích Việt Nam",
+    "author": "Dân gian",
+    "summary": "Giải thích nguồn gốc hoa đào thắm đỏ mang lại bình an trong dịp Tết miền Bắc.",
+    "content": "Ngày xửa ngày xưa, ở miền núi phía Bắc có một ngọn núi lớn, trên đỉnh núi có một cây đào khổng lồ cành lá xum xuể che chở cho cả vùng. Dưới gốc cây là nơi ngự trị của hai vị thần dũng mạnh Trà và Cải, chuyên bảo vệ dân làng khỏi sự quấy nhiễu của lũ quỷ dữ. Sợ hãi sức mạnh của hai vị thần, lũ quỷ không dám bén mảng lại gần. Nhưng đến cuối năm, khi hai vị thần phải bay về thiên đình chầu Ngọc Hoàng, lũ quỷ bỗng kéo đến tàn phá bản làng. Để cứu dân làng, hai vị thần đã hóa thân thành những đóa hoa đào thắm đỏ rực rỡ trên cây, khiến lũ quỷ hoảng sợ không dám lại gần mỗi khi nhìn thấy sắc hoa. Từ đó, cành đào hồng thắm trở thành biểu tượng trừ tà, đón bình an mỗi dịp Tết đến xuân về."
+  },
+  {
+    "id": "st_86",
+    "title": "Cây sáo thần",
+    "categoryId": "co_tich_tg",
+    "categoryName": "Truyện cổ tích thế giới",
+    "author": "Dân gian thế giới",
+    "summary": "Ca ngợi sức mạnh của âm nhạc chân chính và lòng nhân hậu.",
+    "content": "Ngày xưa có một chàng chăn cừu nghèo khổ nhưng chơi sáo vô cùng hay. Âm thanh tiếng sáo của chàng trong trẻo như suối ngàn, khiến chim chóc ngừng hót và mu thú lắng nghe. Một lần, một lão địa chủ tham lam tìm cách cướp lấy cây sáo của chàng để mưu cầu danh lợi. Khi lão địa chủ thổi sáo, thay vì tiếng nhạc du dương, cây sáo lại phát ra những âm thanh kỳ lạ khiến lũ trâu bò hoảng sợ chạy tán loạn, còn bản thân lão bị kéo lê vào rừng sâu. Chỉ khi chàng chăn cừu lấy lại được cây sáo và thổi lên những khúc ca yêu đời, mọi thứ mới trở lại bình yên. Cây sáo thần từ đó chỉ vang lên khi được đặt vào đôi bàn tay của người có tấm lòng chân thật, nhân hậu."
+  },
+  {
+    "id": "st_87",
+    "title": "Sự tích chim sẻ",
+    "categoryId": "co_tich_vn",
+    "categoryName": "Truyện cổ tích Việt Nam",
+    "author": "Dân gian",
+    "summary": "Giải thích nguồn gốc loài chim sẻ và sự gắn bó thân thiết với đồng ruộng.",
+    "content": "Ngày xửa ngày xưa, có một cậu bé vô cùng yêu quý thiên nhiên và các loài chim muông. Cậu thường xuyên rải những hạt thóc thơm ngon ra sân nhà để cho chim chóc đến ăn. Một năm nọ, nạn đói xảy ra, mùa màng thất bát, người dân đối mặt với cảnh thiếu thốn. Đàn chim sẻ được cậu bé chăm sóc hằng năm đã rủ nhau bay về, mang theo những hạt giống quý để đền ơn đáp nghĩa, giúp dân làng vượt qua khó khăn. Trước khi qua đời vì tuổi già, cậu bé được tiên ban cho đôi cánh nhỏ gọn, hóa thành một chú chim sẻ bay lượn tự do trên những cánh đồng lúa chín vàng. Từ đó, loài chim sẻ luôn gắn bó mật thiết với người nông dân và đồng lúa quê hương."
+  },
+  {
+    "id": "st_88",
+    "title": "Bốn người tài giỏi",
+    "categoryId": "co_tich_tg",
+    "categoryName": "Truyện cổ tích thế giới",
+    "author": "Anh em Grimm",
+    "summary": "Sự đoàn kết và kết hợp tài năng độc đáo để cứu công chúa khỏi hiểm nguy.",
+    "content": "Ngày xửa ngày xưa, có bốn chàng trai trẻ rời quê hương lập nghiệp, mỗi người sở hữu một tài năng kỳ lạ: người có đôi mắt tinh anh nhìn thấu ngàn dặm, người có đôi tai thính nghe được mọi âm thanh trên đời, người có sức mạnh nâng bổng mọi vật, và người có tài bắn cung bách phát bách trúng. Họ tình cờ gặp nhau trên đường và kết nghĩa anh em. Khi nghe tin công chúa bị một con yêu tinh quỷ quyệt bắt giam trên đỉnh ngọn tháp cao ngoài khơi xa, bốn anh em liền cùng nhau lên đường cứu giá. Bằng sự phối hợp ăn ý tuyệt vời: người nhìn thấy chỗ giam, người nghe tiếng động, người dùng sức chống trả và người dùng cung tên bắn hạ yêu tinh, họ đã giải cứu thành công nàng công chúa và nhận được phần thưởng xứng đáng từ nhà vua."
+  },
+  {
+    "id": "st_89",
+    "title": "Sự tích quả dưa chuột",
+    "categoryId": "co_tich_vn",
+    "categoryName": "Truyện cổ tích Việt Nam",
+    "author": "Dân gian",
+    "summary": "Câu chuyện dân gian về sự sẻ chia và lòng nhân ái trong lao động.",
+    "content": "Ngày xưa có một anh nông dân nghèo nhưng vô cùng rộng lượng, dù nhà chỉ còn sót lại một mẩu bánh mì và vài hạt giống lạ, anh vẫn sẵn sàng chia sẻ nửa phần cho người hành khất đói lả qua đường. Người hành khất hóa ra là một vị tiên giả dạng, trước khi đi đã tặng anh một nắm hạt giống nhỏ và dặn hãy đem gieo xuống mảnh vườn sau nhà. Chẳng bao lâu, hạt giống nảy mầm, leo giàn xanh tốt và ra những quả dài, vỏ xanh mát, mọng nước, ăn vào giải khát rất ngon. Anh đặt tên là quả dưa chuột và đem hạt giống phát cho tất cả bà con trong làng cùng trồng để có mùa màng bội thu."
+  },
+  {
+    "id": "st_90",
+    "title": "Chú dế mũm mĩm",
+    "categoryId": "co_tich_tg",
+    "categoryName": "Truyện cổ tích thế giới",
+    "author": "Dân gian thế giới",
+    "summary": "Bài học về sự điều độ trong ăn uống và niềm vui lao động.",
+    "content": "Trong một khu vườn xanh ngát có một chú dế nhỏ có giọng hát vang dội nhưng lại có tật xấu là rất ham ăn, lúc nào cũng chỉ nghĩ đến những chiếc lá non mỡ màng và những giọt sương ngọt lịm. Chú ăn nhiều đến mức trở nên mập mạp, lười biếng, chẳng muốn cất tiếng hát hay nhảy nhót nữa. Một hôm, khi có cơn gió lạnh mùa đông ùa về, chú dế mập mạp quá không thể chui qua được kẽ hở nhỏ để về tổ ấm của mình, đành chịu rét mướt ngoài sương gió. May nhờ có các bác kiến tốt bụng ra tay giúp đỡ và kéo chú vào trong, đồng thời khuyên nhủ chú bài học về sự điều độ và năng vận động. Từ đó, chú dế chăm chỉ luyện giọng ca và tập thể dục, trở thành ca sĩ được yêu mến nhất khu vườn."
+  },
+  {
+    "id": "st_91",
+    "title": "Sự tích quả thanh long",
+    "categoryId": "co_tich_vn",
+    "categoryName": "Truyện cổ tích Việt Nam",
+    "author": "Dân gian",
+    "summary": "Giải thích nguồn gốc của quả thanh long và lòng biết ơn đối với loài vật.",
+    "content": "Ngày xưa, trong một vùng đất khô cằn thường xuyên xảy ra hạn hán, có một chú rồng hiền lành thường phun mưa cứu giúp mùa màng của người dân. Để đền ơn rồng, dân làng lập đền thờ phụng. Một năm nọ, kẻ gian ác tìm cách bắt rồng để chiếm ngọc quý. Rồng vùng lên chiến đấu bảo vệ dân làng rồi bay về trời, nơi rồng ngã xuống mọc lên một loài cây lạ có thân xanh uốn lượn như vảy rồng, sinh ra những quả ngọt ruột đỏ hạt đen thơm mát. Nhân dân gọi đó là quả thanh long để tưởng nhớ công ơn của rồng."
+  },
+  {
+    "id": "st_92",
+    "title": "Bác thợ giày và những chú lùn",
+    "categoryId": "co_tich_tg",
+    "categoryName": "Truyện cổ tích thế giới",
+    "author": "Anh em Grimm",
+    "summary": "Bài học về lòng biết ơn và sự đền đáp xứng đáng cho người tốt bụng.",
+    "content": "Ngày xưa có một bác thợ giày vô cùng chăm chỉ và chân thật, nhưng vì thời buổi khó khăn nên gia tài chỉ còn đủ da cho một đôi giày duy nhất. Tối hôm đó, bác cắt da sẵn để sáng mai làm việc rồi đi ngủ. Sáng hôm sau, bác kinh ngạc khi thấy đôi giày đã được khâu xong vô cùng tinh xảo, đường kim mũi chỉ hoàn hảo và được khách mua với giá cao. Đêm tiếp theo, điều kỳ diệu lặp lại. Muốn tìm hiểu sự thật, đêm đến hai vợ chồng nấp sau cánh cửa rình xem. Họ phát hiện ra có hai chú lùn trần truồng, rách rưới nhảy vào bàn làm việc, nhanh nhẹn khâu giày giúp bác. Cảm kích trước nghĩa cử cao đẹp ấy, người vợ đã may cho mỗi chú lùn một bộ quần áo nhỏ xinh xắn cùng đôi giày ấm áp để tặng họ. Khi nhận được quà, hai chú lùn vô cùng vui mừng, nhảy múa vui vẻ rồi biến mất vào bóng đêm, nhưng từ đó gia đình bác thợ giày luôn gặp nhiều may mắn và sống sung túc."
+  },
+  {
+    "id": "st_93",
+    "title": "Sự tích hoa sứ",
+    "categoryId": "co_tich_vn",
+    "categoryName": "Truyện cổ tích Việt Nam",
+    "author": "Dân gian",
+    "summary": "Câu chuyện cảm động về tình yêu thủy chung và lòng nhân ái.",
+    "content": "Ngày xửa ngày xưa, có hai người trẻ tuổi yêu nhau tha thiết nhưng gặp phải sự ngăn cấm ngặt nghèo của gia đình. Không thể đến được với nhau, họ đã cùng nhau hẹn ước kiếp sau sẽ mãi mãi gắn bó. Nơi họ ngẩng nhìn trời cao thề nguyện bỗng mọc lên một loài cây thân mập mạp, cành lá vươn cao, nở ra những bông hoa trắng ngần tinh khiết tỏa hương thơm ngát về đêm. Người dân gọi loài hoa ấy là hoa sứ, tượng trưng cho sự tinh khôi, tình yêu thủy chung và tấm lòng son sắt trước mọi nghịch cảnh."
+  },
+  {
+    "id": "st_94",
+    "title": "Sư tử và cáo",
+    "categoryId": "co_tich_tg",
+    "categoryName": "Truyện cổ tích thế giới",
+    "author": "Aesop",
+    "summary": "Bài học về sự tỉnh táo, quan sát tinh tường để tránh sập bẫy kẻ gian.",
+    "content": "Sư tử già yếu, không còn đủ sức bèn nghĩ ra mưu kế giả vờ lâm bệnh nặng nằm liệt trong hang sâu, phát tín hiệu mời muôn loài đến thăm hỏi để rồi bắt ăn thịt. Lần lượt các loài thú khỉ, dê, nai đến thăm đều không một ai quay trở về. Cáo tinh ranh vốn cẩn thận, đứng từ xa quan sát kỹ cửa hang và nhận ra một điều kỳ lạ: tất cả các dấu chân đều hướng đi vào trong mà không hề có bất kỳ dấu chân nào quay đầu đi ra. Hiểu được âm mưu độc ác của sư tử, cáo liền lớn tiếng hỏi thăm từ xa rồi nhanh chóng quay đầu bỏ chạy vào rừng, thoát chết ngoạn mục."
+  },
+  {
+    "id": "st_95",
+    "title": "Sự tích hoa quỳnh",
+    "categoryId": "co_tich_vn",
+    "categoryName": "Truyện cổ tích Việt Nam",
+    "author": "Dân gian",
+    "summary": "Giải thích vì sao hoa quỳnh chỉ nở về đêm và tàn rất nhanh.",
+    "content": "Ngày xửa ngày xưa, ở miền biển nọ có một chàng nghệ nhân tài hoa chuyên đắp những bức tượng ngọc tuyệt đẹp. Một lần, Ngọc Hoàng sai sứ giả xuống trần gian tìm kiếm tạo hình hoàn mỹ nhất. Chàng nghệ nhân đã dốc hết tâm huyết tạo nên một đóa hoa bằng ngọc trắng lung linh, rực rỡ dưới ánh trăng. Vẻ đẹp ấy khiến các nàng tiên trên trời vô cùng ngưỡng mộ. Để bảo vệ kiệt tác không bị vấy bẩn bởi trần gian tham lam, Ngọc Hoàng đã mang hoa về trời, nhưng vì thương nhớ chàng trai, đóa hoa xin phép mỗi năm được hé nở một lần vào lúc đêm khuya thanh vắng rồi tàn trước khi bình minh ló dạng. Từ đó, hoa quỳnh ra đời với đặc tính nở về đêm và tàn nhanh."
+  },
+  {
+    "id": "st_96",
+    "title": "Con ngỗng vàng",
+    "categoryId": "co_tich_tg",
+    "categoryName": "Truyện cổ tích thế giới",
+    "author": "Anh em Grimm",
+    "summary": "Phần thưởng xứng đáng cho lòng nhân hậu và sự chia sẻ với người khó khăn.",
+    "content": "Có ba anh em trong một gia đình nọ, người anh cả và anh thứ ích kỷ, còn cậu út hiền lành tên là Cục Khờ luôn sẵn sàng giúp đỡ người khác. Một ngày nọ, người anh cả vào rừng đốn củi, gặp một ông lão nghèo đói xin bánh mì và nước uống nhưng anh ta từ chối và bị thương ở tay. Người anh thứ hai cũng gặp y hệt và bị thương ở chân. Đến lượt cậu út Cục Khờ, dù phần ăn ít ỏi nhưng cậu vui vẻ chia sẻ cho ông lão. Ông lão hóa phép biến gốc cây thành một con ngỗng bằng vàng rực rỡ. Cục Khờ mang ngỗng vàng đi vào thị trấn, trên đường đi, những ai tò mò chạm vào ngỗng đều bị dính chặt vào nhau tạo thành một đoàn người diễu hành hài hước. Nhờ đoàn người kỳ lạ này, cậu khiến cô công chúa buồn rầu phải bật cười sảng khoái, và được vua gả công chúa cho, sống hạnh phúc mãi mãi."
+  },
+  {
+    "id": "st_97",
+    "title": "Sự tích hoa bồ công anh",
+    "categoryId": "co_tich_vn",
+    "categoryName": "Truyện cổ tích Việt Nam",
+    "author": "Dân gian",
+    "summary": "Câu chuyện về ước vọng bay cao, bay xa và tình yêu tự do của tuổi trẻ.",
+    "content": "Ngày xưa có một cô tiên nhỏ vốn yêu tự do, luôn khao khát được bay lượn khám phá những chân trời mới ngoài khu vườn thiên đình ngặt nghèo quy tắc. Nàng xin phép các vị thần hóa thân thành một đóa hoa nhỏ ven đường với những cánh hoa mỏng manh như tơ lụa. Khi những cơn gió mùa thu thổi qua, những cánh hoa bồ công anh tách ra, nương theo chiều gió bay đi muôn phương, gieo mầm sự sống và những đóa hoa xinh đẹp khắp các vùng đất mới. Từ đó, hoa bồ công anh trở thành biểu tượng của ước vọng tự do và tuổi trẻ đầy nhiệt huyết."
+  },
+  {
+    "id": "st_98",
+    "title": "Bảy con quạ",
+    "categoryId": "co_tich_tg",
+    "categoryName": "Truyện cổ tích thế giới",
+    "author": "Anh em Grimm",
+    "summary": "Tình cảm gia đình thiêng liêng và sự hy sinh kiên cường của người em gái.",
+    "content": "Một nhà nọ sinh được bảy người con trai khỏe mạnh nhưng mãi chưa có cô con gái nào. Khi sinh được một cô con gái út, cô bé lại rất ốm yếu khiến người cha vô cùng lo lắng, sai các anh đi lấy nước phép ở suối. Trong lúc vội vã, chiếc bình nước rơi xuống đáy vực, các người anh mải tranh cãi làm rơi bình khiến người cha tức giận lỡ miệng nguyền rủa các con biến thành đàn quạ bay đi. Khi cô con gái lớn lên tìm kiếm các anh, cô đã vượt qua muôn vàn khó khăn gian khổ, đi đến tận cùng thế giới. Để cứu các anh, cô phải chịu đựng việc cắt đứt một ngón tay út để làm chìa khóa mở cửa kính lâu đài thủy tinh. Nhờ lòng dũng cảm và tình thương bao la ấy, lời nguyền bị phá bỏ, bảy người anh trở lại thành người và gia đình đoàn tụ."
+  },
+  {
+    "id": "st_99",
+    "title": "Sự tích cây lúa",
+    "categoryId": "co_tich_vn",
+    "categoryName": "Truyện cổ tích Việt Nam",
+    "author": "Dân gian",
+    "summary": "Giải thích nguồn gốc hạt lúa nuôi sống con người và sự nhọc nhằn trong lao động.",
+    "content": "Ngày xửa ngày xưa, hạt lúa to lớn và tự động bay về nhà kho của người dân sau mỗi mùa vụ, con người không cần phải làm lụng vất vả hay gặt hái, xay xát gì. Một năm nọ, có người phụ nữ lười biếng, vì kho chứa không còn chỗ đã lớn tiếng mắng mỏ và dùng chổi quét đuổi những hạt lúa đi. Từ đó, hạt lúa giận dỗi thu nhỏ lại, bay đi mất và bắt con người phải đổ mồ hôi sôi nước mắt, cày bừa, cấy gặt vất vả quanh năm mới có cơm ăn. Câu chuyện nhắc nhở con người phải luôn trân trọng thành quả lao động và hạt gạo ơn nghĩa của đất trời."
+  },
+  {
+    "id": "st_100",
+    "title": "Người đánh cá và chiếc bình kỳ diệu",
+    "categoryId": "co_tich_tg",
+    "categoryName": "Truyện cổ tích thế giới",
+    "author": "Nghìn lẻ một đêm",
+    "summary": "Sự mưu trí giúp con người chiến thắng sức mạnh thô bạo của ác quỷ.",
+    "content": "Ngày xưa có một ông lão đánh cá nghèo khổ, mỗi ngày chỉ thả lưới đúng bốn lần. Một hôm, khi kéo mẻ lưới cuối cùng lên, ông không bắt được cá mà chỉ vớt được một chiếc bình đồng cổ khắc kín dấu niêm phong của vua Solomon. Tò mò, ông lão dùng dao cạy nắp bình ra. Ngay lập tức, một làn khói đen khổng lồ bay vụt lên rồi hóa thành một tên ác ma hung dữ, tuyên bố vì đã bị giam cầm quá lâu nên hắn sẽ trừng phạt và giết chết kẻ dám giải thoát cho mình. Bình tĩnh trước hiểm nguy, ông lão dùng trí thông minh khích tướng ác ma, thách thức hắn chui lại vào trong bình để chứng minh lời nói. Khi ác ma vừa biến thành làn khói chui lọt vào bình, ông lão nhanh tay đóng chặt nắp lại và ném xuống biển sâu, dạy cho kẻ vong ân bội nghĩa một bài học đích đáng."
   }
 ]
