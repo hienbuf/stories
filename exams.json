@@ -2,7 +2,7 @@
   {
     "id": "exam_01",
     "subject": "Toán",
-    "grade": "Lớp 1",
+    "grade": "Lớp 5",
     "bookSeries": "Kết nối tri thức",
     "category": "Đề kiểm tra giữa học kì 1",
     "title": "Đề số 1",
@@ -11,28 +11,37 @@
   {
     "id": "exam_02",
     "subject": "Toán",
-    "grade": "Lớp 1",
+    "grade": "Lớp 5",
     "bookSeries": "Kết nối tri thức",
     "category": "Đề kiểm tra giữa học kì 1",
     "title": "Đề số 2",
-    "url": "https://loigiaihay.com/hoc-online/lam-bai-thi/1183-de-kiem-tra-giua-hoc-ki-1-toan-5-de-so-2"
+    "url": "https://loigiaihay.com/v2/de-thi-lop-5-chi-tiet-de-thi-giua-ki-1-de-2-mon-toan-x66f133ee7edf62e44fd7d2ed.html?typeExam=1"
   },
   {
     "id": "exam_03",
     "subject": "Toán",
-    "grade": "Lớp 1",
-    "bookSeries": "Cánh diều",
-    "category": "Đề kiểm tra cuối học kì 1",
-    "title": "Đề số 1",
-    "url": "https://loigiaihay.com/hoc-online/lam-bai-thi/1184-de-kiem-tra-cuoi-hoc-ki-1-toan-5-de-so-1"
+    "grade": "Lớp 5",
+    "bookSeries": "Kết nối tri thức",
+    "category": "Đề kiểm tra giữa học kì 1",
+    "title": "Đề số 3",
+    "url": "https://loigiaihay.com/v2/de-thi-lop-5-chi-tiet-de-thi-giua-ki-1-de-so-3-mon-toan-x66f23c697edf62e44fd7d76b.html?typeExam=1"
   },
   {
     "id": "exam_04",
-    "subject": "Tiếng Việt",
+    "subject": "Toán",
     "grade": "Lớp 5",
-    "bookSeries": "Chân trời sáng tạo",
-    "category": "Đề kiểm tra giữa học kì 2",
-    "title": "Đề số 1",
-    "url": "https://loigiaihay.com/hoc-online/lam-bai-thi/..."
+    "bookSeries": "Kết nối tri thức",
+    "category": "Đề kiểm tra giữa học kì 1",
+    "title": "Đề số 4",
+    "url": "https://loigiaihay.com/v2/de-thi-lop-5-chi-tiet-de-thi-giua-ki-1-de-so-4-mon-toan-x66f675bc4bfb6acee2d1618a.html?typeExam=1"
+  },
+  {
+    "id": "exam_05",
+    "subject": "Toán",
+    "grade": "Lớp 5",
+    "bookSeries": "Kết nối tri thức",
+    "category": "Đề kiểm tra giữa học kì 1",
+    "title": "Đề số 5",
+    "url": "https://loigiaihay.com/v2/de-thi-lop-5-chi-tiet-de-thi-giua-ki-1-de-so-5-mon-toan-x66fa4ffcb0669533205a2cc2.html?typeExam=1"
   }
 ]
