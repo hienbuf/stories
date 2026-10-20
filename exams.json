@@ -454,5 +454,29 @@
     "url": "https://loigiaihay.com/v2/tu-luyen-lop-5-muc-ngu-phap-c669f68498ec678558c8aab8e.html",
     "pdfExamUrl": "",
     "pdfSolutionUrl": ""
+  },
+  {
+    "id": "exam_39",
+    "subject": "Tiếng Anh",
+    "grade": "Lớp 5",
+    "bookSeries": "Kết nối tri thức",
+    "category": "Unit 8",
+    "title": "Từ vựng",
+    "type": "practice",
+    "url": "https://loigiaihay.com/v2/tu-luyen-lop-5-muc-tu-vung-c669f67428ec678558c8aaad6.html",
+    "pdfExamUrl": "",
+    "pdfSolutionUrl": ""
+  },
+  {
+    "id": "exam_40",
+    "subject": "Tiếng Anh",
+    "grade": "Lớp 5",
+    "bookSeries": "Kết nối tri thức",
+    "category": "Unit 8",
+    "title": "Ngữ pháp",
+    "type": "practice",
+    "url": "https://loigiaihay.com/v2/tu-luyen-lop-5-muc-ngu-phap-c669f684f8ec678558c8aab91.html",
+    "pdfExamUrl": "",
+    "pdfSolutionUrl": ""
   }
 ]
