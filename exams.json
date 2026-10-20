@@ -158,5 +158,17 @@
     "url": "",
     "pdfExamUrl": "https://img.loigiaihay.com/picture/share_img/2024/1009/de-thi-giua-hoc-ki-1-tieng-viet-5-de-so-5-1728461369.pdf",
     "pdfSolutionUrl": "https://img.loigiaihay.com/picture/share_img/2024/1009/de-thi-giua-hoc-ki-1-tieng-viet-5-de-so-5-1728461372.pdf"
+  },
+  {
+    "id": "exam_16",
+    "subject": "Toán",
+    "grade": "Lớp 5",
+    "bookSeries": "Kết nối tri thức",
+    "category": "Chủ đề 1. Ôn tập và bổ sung",
+    "title": "1. Ôn tập các số tự nhiên",
+    "type": "practice",
+    "url": "https://loigiaihay.com/v2/tu-luyen-lop-5-muc-on-tap-cac-so-tu-nhien-c6697922c445ba7440861306d.html",
+    "pdfExamUrl": "",
+    "pdfSolutionUrl": ""
   }
 ]
