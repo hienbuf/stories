@@ -1,26 +1,26 @@
 [
-	{
-	    "id": "st_01",
-	    "categoryId": "Grimm",
-	    "categoryName": "Anh em nhà Grimm",
-	    "author": "Anh em nhà Grimm",
-	    "imageUrl": "",
-		"linkWebUrl": "https://www.grimmstories.com/vi/grimm_truyen/list"
-	},
-	{
-	    "id": "st_02",
-	    "categoryId": "truyen_shin",
-	    "categoryName": "Truyện shin Cậu bé bút trì",
-	    "author": "...",
-	    "imageUrl": "",
-		"linkWebUrl": ""
-	},
-	{
-	    "id": "st_02",
-	    "categoryId": "truyen_peppa",
-	    "categoryName": "Truyện Peppa Pig",
-	    "author": "...",
-	    "imageUrl": "",
-		"linkWebUrl": ""
-	}
-]	
+  {
+    "id": "st_01",
+    "categoryId": "Grimm",
+    "categoryName": "Anh em nhà Grimm",
+    "author": "Anh em nhà Grimm",
+    "imageUrl": "",
+    "linkWebUrl": "https://www.grimmstories.com/vi/grimm_truyen/list"
+  },
+  {
+    "id": "st_02",
+    "categoryId": "truyen_shin",
+    "categoryName": "Truyện shin Cậu bé bút trì",
+    "author": "...",
+    "imageUrl": "",
+    "linkWebUrl": ""
+  },
+  {
+    "id": "st_02",
+    "categoryId": "truyen_peppa",
+    "categoryName": "Truyện Peppa Pig",
+    "author": "...",
+    "imageUrl": "",
+    "linkWebUrl": ""
+  }
+]
