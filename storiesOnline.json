@@ -1,0 +1,24 @@
+{
+    "id": "st_01",
+    "categoryId": "co_tich_vn",
+    "categoryName": "Truyện cổ tích Việt Nam",
+    "author": "Dân gian",
+    "imageUrl": "Ảnh đại diện",
+	"linkWebUrl: "Link danh sách truyện"
+},
+{
+    "id": "st_02",
+    "categoryId": "truyen_shin",
+    "categoryName": "Truyện shin Cậu bé bút trì",
+    "author": "...",
+    "imageUrl": "Ảnh đại diện",
+	"linkWebUrl: "Link danh sách truyện"
+},
+{
+    "id": "st_02",
+    "categoryId": "truyen_peppa",
+    "categoryName": "Truyện Peppa Pig",
+    "author": "...",
+    "imageUrl": "Ảnh đại diện",
+	"linkWebUrl: "Link danh sách truyện"
+}
