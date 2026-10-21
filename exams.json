@@ -120,6 +120,66 @@
     "pdfSolutionUrl": ""
   },
   {
+    "id": "exam_06",
+    "subject": "Tiếng Anh",
+    "grade": "Lớp 5",
+    "bookSeries": "Kết nối tri thức",
+    "category": "Đề kiểm tra giữa học kì 1",
+    "title": "Đề số 1",
+    "type": "",
+    "url": "https://loigiaihay.com/v2/de-thi-lop-5-chi-tiet-de-thi-giua-hk1-de-1-tieng-anh-global-success-x66f23b317edf62e44fd7d759.html?typeExam=1",
+    "pdfExamUrl": "",
+    "pdfSolutionUrl": ""
+  },
+  {
+    "id": "exam_07",
+    "subject": "Tiếng Anh",
+    "grade": "Lớp 5",
+    "bookSeries": "Kết nối tri thức",
+    "category": "Đề kiểm tra giữa học kì 1",
+    "title": "Đề số 2",
+    "type": "",
+    "url": "https://loigiaihay.com/v2/de-thi-lop-5-chi-tiet-de-thi-giua-hk1-de-2-tieng-anh-global-success-x66fa3158b0669533205a29a9.html?typeExam=1",
+    "pdfExamUrl": "",
+    "pdfSolutionUrl": ""
+  },
+  {
+    "id": "exam_08",
+    "subject": "Tiếng Anh",
+    "grade": "Lớp 5",
+    "bookSeries": "Kết nối tri thức",
+    "category": "Đề kiểm tra giữa học kì 1",
+    "title": "Đề số 3",
+    "type": "",
+    "url": "https://loigiaihay.com/v2/de-thi-lop-5-chi-tiet-de-thi-giua-hk1-de-so-3-tieng-anh-global-success-x66fa5960b0669533205a3369.html?typeExam=1",
+    "pdfExamUrl": "",
+    "pdfSolutionUrl": ""
+  },
+  {
+    "id": "exam_09",
+    "subject": "Tiếng Anh",
+    "grade": "Lớp 5",
+    "bookSeries": "Kết nối tri thức",
+    "category": "Đề kiểm tra giữa học kì 1",
+    "title": "Đề số 4",
+    "type": "",
+    "url": "https://loigiaihay.com/v2/de-thi-lop-5-chi-tiet-de-thi-giua-hk1-de-so-4-tieng-anh-global-success-x66fbb69416f7ac59356cd33f.html?typeExam=1",
+    "pdfExamUrl": "",
+    "pdfSolutionUrl": ""
+  },
+  {
+    "id": "exam_10",
+    "subject": "Tiếng Anh",
+    "grade": "Lớp 5",
+    "bookSeries": "Kết nối tri thức",
+    "category": "Đề kiểm tra giữa học kì 1",
+    "title": "Đề số 5",
+    "type": "",
+    "url": "https://loigiaihay.com/v2/de-thi-lop-5-chi-tiet-de-thi-giua-hk1-de-5-tieng-anh-global-success-x66fbc7a916f7ac59356cd670.html?typeExam=1",
+    "pdfExamUrl": "",
+    "pdfSolutionUrl": ""
+  },
+  {
     "id": "exam_11",
     "subject": "Tiếng Việt",
     "grade": "Lớp 5",
