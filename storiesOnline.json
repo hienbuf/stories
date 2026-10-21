@@ -16,11 +16,11 @@
     "linkWebUrl": "https://truyenthieunhi.vn/truyen-cho-tre/truyen-cho-thieu-nhi"
   },
   {
-    "id": "st_02",
-    "categoryId": "truyen_peppa",
-    "categoryName": "Truyện Peppa Pig",
+    "id": "st_03",
+    "categoryId": "truyen_co_tich_vn",
+    "categoryName": "Truyện Cổ Tích Việt Nam",
     "author": "...",
     "imageUrl": "",
-    "linkWebUrl": ""
+    "linkWebUrl": "https://truyencotich.vn/truyen-co-tich/co-tich-viet-nam"
   }
 ]
