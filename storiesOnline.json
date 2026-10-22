@@ -1,13 +1,5 @@
 [
   {
-    "id": "st_01",
-    "categoryId": "st_01",
-    "categoryName": "Truyện Thiếu Nhi",
-    "author": "Nguồn truyenthieunhi.vn",
-    "imageUrl": "",
-    "linkWebUrl": "https://truyenthieunhi.vn/truyen-cho-tre/truyen-cho-thieu-nhi"
-  },
-  {
     "id": "st_02",
     "categoryId": "st_02",
     "categoryName": "Truyện Cổ Tích Cho Bé",
