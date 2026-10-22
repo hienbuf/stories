@@ -1,6 +1,6 @@
 {
-  "versionCode": 2,
-  "versionName": "1.1.0",
-  "apkUrl": "https://github.com//hienbuf/stories/releases/download/v1.1.0/Robot_Funny.apk",
-  "releaseNotes": "Cập nhật tính năng mới có update qua github, 3 trang truyện."
+  "version": "1.1.0",
+  "buildNumber": "2",
+  "apkUrl": "https://raw.githubusercontent.com/hienbuf/stories/main/Robot_Funny.apk",
+  "releaseNotes": "Cập nhật tính năng mới và sửa lỗi."
 }
