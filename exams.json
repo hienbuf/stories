@@ -274,5 +274,41 @@
     "url": "https://loigiaihay.com/v2/tu-luyen-trac-nghiem-toan-lop-1-c798.html",
     "pdfExamUrl": "",
     "pdfSolutionUrl": ""
+  },
+  {
+    "id": "exam_19",
+    "subject": "Lịch sử & Địa lý",
+    "grade": "Lớp 5",
+    "bookSeries": "Kết nối tri thức",
+    "category": "Bài tập Lịch sử và Địa lý",
+    "title": "Bài tập Lịch sử và Địa lý",
+    "type": "practice",
+    "url": "https://loigiaihay.com/vbt-lich-su-va-dia-li-5-ket-noi-tri-thuc-c2333.html",
+    "pdfExamUrl": "",
+    "pdfSolutionUrl": ""
+  },
+  {
+    "id": "exam_20",
+    "subject": "Lịch sử & Địa lý",
+    "grade": "Lớp 5",
+    "bookSeries": "Kết nối tri thức",
+    "category": "Đề kiểm tra học kì 1",
+    "title": "Đề số 1",
+    "type": "",
+    "url": "https://img.loigiaihay.com/picture/share_img/2026/0108/de-kiem-tra-hoc-ki-1-lich-su-va-dia-li-5-de-so-1-1767846608.pdf",
+    "pdfExamUrl": "",
+    "pdfSolutionUrl": ""
+  },
+  {
+    "id": "exam_21",
+    "subject": "Lịch sử & Địa lý",
+    "grade": "Lớp 5",
+    "bookSeries": "Kết nối tri thức",
+    "category": "Đề kiểm tra học kì 1",
+    "title": "Đề số 2",
+    "type": "",
+    "url": "https://img.loigiaihay.com/picture/share_img/2026/0109/de-kiem-tra-hoc-ki-1-lich-su-va-dia-li-5-de-so-2-1767948422.pdf",
+    "pdfExamUrl": "",
+    "pdfSolutionUrl": ""
   }
 ]
